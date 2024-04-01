@@ -1,1 +1,3 @@
-# whisper_fine_tuning
+<h1>Whisper Fine-tuning for Pronunciation Learning</h1><br><br>
+
+<p>In this project, I undertook the task of fine-tuning a whisper speech to text base model to enhance pronunciation learning, particularly focusing on broken words or fragmented speech segments. The primary objective was to develop a robust system capable of accurately transcribing whispered speech, especially in scenarios where words are partially uttered or fragmented. Leveraged advanced transfer learning techniques and deep learning architectures to achieve an impressive accuracy rate of nearly 95\%. Collaborated with educators to integrate the model into language learning applications, demonstrating a commitment to leveraging technology for educational enhancement.</p>
