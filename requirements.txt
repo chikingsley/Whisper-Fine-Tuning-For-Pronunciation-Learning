@@ -1,0 +1,14 @@
+transformers>=4.38.0
+datasets>=2.14.0
+torch>=2.0.0
+evaluate>=0.4.0
+peft>=0.9.0
+accelerate>=0.27.0
+soundfile>=0.12.0 # Or librosa
+# scipy # Often needed by whisper/transformers for processing
+tensorboard # For logging
+# wandb # Optional: if using wandb for logging
+ctranslate2>=3.0.0 # For CT2 conversion
+huggingface_hub>=0.17.0 # For pushing to hub
+packaging # Often required by peft/transformers
+ninja # Often required by peft/transformers 
